@@ -12,5 +12,5 @@ import { RouterOutlet } from '@angular/router';
   styles: [],
 })
 export class AppComponent {
-  title = 'youtube-sidebar-clone';
+  title = 'youtube-sidebar-clone Initial Commit'; 
 }
